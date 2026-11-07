@@ -1,0 +1,1 @@
+cmake --build dist/win

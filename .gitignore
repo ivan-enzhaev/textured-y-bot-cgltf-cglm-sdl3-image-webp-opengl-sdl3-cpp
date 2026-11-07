@@ -1,0 +1,24 @@
+# Android
+android-project/.idea/
+android-project/.gradle/
+android-project/build/
+android-project/local.properties
+android-project/app/.cxx/
+android-project/app/build/
+android-project/app/src/main/jniLibs/
+
+# Build Artifacts
+build/
+cmake-build-*/
+dist/
+
+# IDE Metadata
+.idea/
+.qtcreator/
+
+# WebAssembly
+public/js/
+public/app.data
+
+# Config files
+*.ini
